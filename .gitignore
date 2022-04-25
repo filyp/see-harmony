@@ -2,3 +2,5 @@
 venv/
 *.wav
 _playground.ipynb
+data/*.mp3
+*.pyc
